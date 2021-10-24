@@ -1,4 +1,4 @@
-# Training: Làm việc nhóm với Github Desktop
+# Training
 
 ![Training Github](pic.png)
 
